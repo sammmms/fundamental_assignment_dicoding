@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Fundamental #1</string>
+    <string name="title_home">Home</string>
+    <string name="title_completed">Completed</string>
+    <string name="title_active">Active</string>
+
+    <!--    Event -->
+
+    <!--    Home page -->
+    <string name="homepage_active">Active Event</string>
+    <string name="homepage_completed">Completed Event</string>
+    <string name="introduction">Welcome to Dicoding Events!</string>
+
+    <!--    Card -->
+    <string name="placeholder_description">Im a description placeholder and im supposed to be really long to test how much the overflow that could happen from just having a really long description hahaha</string>
+    <string name="placeholder_title">Im a title placeholder and im supposed to be really long to test how much the overflow that could happen from just having a really long title hahaha</string>
+    <string name="placeholder_favorite">Im a favorite placeholder</string>
+
+    <!--    Loading -->
+    <string name="loading_active_description">Getting active events data, please wait…</string>
+    <string name="loading_completed_description">Getting completed events data, please wait…</string>
+
+    <!--    Error -->
+    <string name="error_description">Failed to get data, please try again.</string>
+
+    <!--    Detail Page -->
+    <string name="placeholder_owner">DHCP Dicoding Student</string>
+    <string name="summary">Summary</string>
+    <string name="description">Description</string>
+    <string name="detail">More detail</string>
+    <string name="placeholder_city">Medan</string>
+    <string name="placeholder_category">Workshop</string>
+    <string name="available_quota">%1$s slot%2$s left</string>
+    <string name="placeholder_date_range">%1$s – %2$s</string>
+    <string name="total_quota">Total Quota : %1$s</string>
+    <string name="total_registrants">Total Registrants : %1$s</string>
+    <string name="see_events">See Events</string>
+
+    <!--    Search bar -->
+    <string name="searchbar_hints">Search for events</string>
+
+    <!--    Settings -->
+    <string name="dark_mode_switch">Dark Mode</string>
+    <string name="notification_switch">Notify Latest Event</string>
+
+    <!--    Favorite -->
+    <string name="favorite_empty">No favorite event</string>
+    <string name="favorite_title">Favorite Event</string>
+
+    <!--    Notification -->
+    <string name="notification_title">Latest Events : %1$s</string>
+    <string name="notification_message">Don\'t miss it! %1$s is starting at %2$s</string>
+
+<!--    Navigation tab-->
+    <string name="navigation_home">Home</string>
+    <string name="navigation_active">Active</string>
+    <string name="navigation_completed">Completed</string>
+    <string name="navigation_favorite">Favorite</string>
+    <string name="navigation_setting">Settings</string>
+</resources>
